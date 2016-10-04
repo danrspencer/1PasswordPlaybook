@@ -1,7 +1,9 @@
 # 1PasswordPlaybook
 Playbook for using 1Password with Dropbox and GMail or Yahoo Mail
 
-## Setting up a secure password environment
+## Setting up a secure 1Password environment
+
+If someone gains access to your 1Password vault file they can eventually crack it. It's simply a matter of time and computer power. While most of the time the effort required is probably not worth it for an attacker you should still ensure that your vault is as difficult to aquire as possible.
 
 ### 1.  Ensure that your data is stored with OPVault
 
